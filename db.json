@@ -1,4 +1,27 @@
 {
+  "users": [
+    {
+      "id": "1",
+      "name": "Tiger ",
+      "surname": "Nixon",
+      "age": "61",
+      "email": "tiger.nixon@ff.com"
+    },
+    {
+      "id": "2",
+      "name": "Tiger2 ",
+      "surname": "Nixon2",
+      "age": "612",
+      "email": "tiger.nixon2@ff.com"
+    },
+    {
+      "id": "3",
+      "name": "Tiger3 ",
+      "surname": "Nixon3",
+      "age": "613",
+      "email": "tiger.nixon3@ff.com"
+    }
+  ],
   "departments": [
     {
       "id": "1",
@@ -13,60 +36,60 @@
   ],
   "allUsers": [
     {
-      "id": "1",
+      "id": 1,
       "name": "Martin",
       "surname": "JOHNSON",
       "email": "JOHNSON@gmail.com",
-      "age": "45"
+      "age": 45
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Bob",
       "surname": "WILLIAMS",
       "email": "WILLIAMS@gmail.com",
-      "age": "43"
+      "age": 43
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Smith",
       "surname": "JONES",
       "email": "JONES@gmail.com",
-      "age": "44"
+      "age": 44
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Williams",
       "surname": "HARRIS",
       "email": "HARRIS@gmail.com",
-      "age": "65"
+      "age": 65
     },
     {
-      "id": "5",
+      "id": 5,
       "name": "Davis",
       "surname": "MILLER",
       "email": "MILLER@gmail.com",
-      "age": "11"
+      "age": 11
     },
     {
-      "id": "6",
+      "id": 6,
       "name": "Taylor",
       "surname": "THOMAS",
       "email": "THOMAS@gmail.com",
-      "age": "34"
+      "age": 34
     },
     {
-      "id": "7",
+      "id": 7,
       "name": "Moore",
       "surname": "ALLEN",
       "email": "ALLEN@gmail.com",
-      "age": "18"
+      "age": 18
     },
     {
-      "id": "8",
+      "id": 8,
       "name": "Scott",
       "surname": "NELSON",
       "email": "NELSON@gmail.com",
-      "age": "34"
+      "age": 34
     }
   ]
 }
