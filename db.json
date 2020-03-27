@@ -1,27 +1,4 @@
 {
-  "users": [
-    {
-      "id": "1",
-      "name": "Tiger ",
-      "surname": "Nixon",
-      "age": "61",
-      "email": "tiger.nixon@ff.com"
-    },
-    {
-      "id": "2",
-      "name": "Tiger2 ",
-      "surname": "Nixon2",
-      "age": "612",
-      "email": "tiger.nixon2@ff.com"
-    },
-    {
-      "id": "3",
-      "name": "Tiger3 ",
-      "surname": "Nixon3",
-      "age": "613",
-      "email": "tiger.nixon3@ff.com"
-    }
-  ],
   "departments": [
     {
       "id": "1",
