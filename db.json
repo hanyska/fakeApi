@@ -33,5 +33,63 @@
       "name": "Department2",
       "managerID": "manager456"
     }
-  ]
+  ],
+  "allUsers": [
+{
+"id": 1,
+"name": "Martin",
+"surname": "JOHNSON",
+"email": "JOHNSON@gmail.com",
+"age": 45
+},
+{
+"id": 2,
+"name": "Bob",
+"surname": "WILLIAMS",
+"email": "WILLIAMS@gmail.com",
+"age": 43
+},
+{
+"id": 3,
+"name": "Smith",
+"surname": "JONES",
+"email": "JONES@gmail.com",
+"age": 44
+},
+{
+"id": 4,
+"name": "Williams",
+"surname": "HARRIS",
+"email": "HARRIS@gmail.com",
+"age": 65
+},
+{
+"id": 5,
+"name": "Davis",
+"surname": "MILLER",
+"email": "MILLER@gmail.com",
+"age": 11
+},
+{
+"id": 6,
+"name": "Taylor",
+"surname": "THOMAS",
+"email": "THOMAS@gmail.com",
+"age": 34
+},
+{
+"id": 7,
+"name": "Moore",
+"surname": "ALLEN",
+"email": "ALLEN@gmail.com",
+"age": 18
+},
+{
+"id": 8,
+"name": "Scott",
+"surname": "NELSON",
+"email": "NELSON@gmail.com",
+"age": 34
+}
+]
 }
