@@ -34,6 +34,22 @@
       "managerID": "manager456"
     }
   ],
+    "teams": [
+    {
+      "id": "1",
+      "departmentID": "1"
+      "name": "Team1",
+      "cycleID": "999",
+      "startPoints": "100"
+    },
+    {
+      "id": "2",
+      "departmentID": "2"
+      "name": "Team2",
+      "cycleID": "888",
+      "startPoints": "250"
+    }
+  ],
   "allUsers": [
     {
       "id": 1,
