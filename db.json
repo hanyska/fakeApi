@@ -7,7 +7,7 @@
       "birthDate": "2020-04-01T11:52:25.198Z",
       "email": "tiger.nixon@ff.com",
       "teamID": "1",
-      "active": "true"
+      "active": true
     },
     {
       "id": "2",
@@ -22,10 +22,10 @@
       "id": "3",
       "firstName": "Tiger3 ",
       "surname": "Nixon3",
-      "birthDate": "03.03.1990",
+      "birthDate": "1990-01-01T11:52:25.198Z",
       "email": "tiger.nixon3@ff.com",
       "teamID": "3",
-      "active": "true"
+      "active": true
     }
   ],
   "departments": [
