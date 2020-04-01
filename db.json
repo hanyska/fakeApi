@@ -2,24 +2,30 @@
   "users": [
     {
       "id": "1",
-      "name": "Tiger ",
+      "firstName": "Tiger ",
       "surname": "Nixon",
-      "age": "61",
-      "email": "tiger.nixon@ff.com"
+      "birthDate": "01.01.1990",
+      "email": "tiger.nixon@ff.com",
+      "teamID": "1",
+      "active": "true"
     },
     {
       "id": "2",
-      "name": "Tiger2 ",
+      "firstName": "Tiger2 ",
       "surname": "Nixon2",
-      "age": "612",
-      "email": "tiger.nixon2@ff.com"
+      "birthDate": "02.02.1990",
+      "email": "tiger.nixon2@ff.com",
+      "teamID": "2",
+      "active": "false"
     },
     {
       "id": "3",
-      "name": "Tiger3 ",
+      "firstName": "Tiger3 ",
       "surname": "Nixon3",
-      "age": "613",
-      "email": "tiger.nixon3@ff.com"
+      "birthDate": "03.03.1990",
+      "email": "tiger.nixon3@ff.com",
+      "teamID": "3",
+      "active": "true"
     }
   ],
   "departments": [
