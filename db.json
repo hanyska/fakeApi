@@ -16,7 +16,7 @@
       "birthDate": "1990-04-01T11:52:25.198Z",
       "email": "tiger.nixon2@ff.com",
       "teamID": "2",
-      "active": "false"
+      "active": false
     },
     {
       "id": "3",
