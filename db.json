@@ -4,7 +4,7 @@
       "id": "1",
       "firstName": "Tiger ",
       "surname": "Nixon",
-      "birthDate": "01.01.1990",
+      "birthDate": "Mon Jan 01 1990 00:00:00 GMT+0100 (czas środkowoeuropejski standardowy)",
       "email": "tiger.nixon@ff.com",
       "teamID": "1",
       "active": "true"
